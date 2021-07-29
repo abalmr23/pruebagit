@@ -5,6 +5,6 @@ public class hola
 		System.out.println("Hola Mundo 3");
 		System.out.println("Hola Mundo 3");
 		System.out.println("Hola Mundo 3");
-		System.out.println("Hola Mundo 3");
+
 	}
 }
